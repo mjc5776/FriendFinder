@@ -1,8 +1,8 @@
 // Data structure that will store the friends data
 var friendsArray = [
 	{
-		name: 'Scooter',
-		photo: 'http://cdn3-www.dogtime.com/assets/uploads/gallery/30-impossibly-cute-puppies/impossibly-cute-puppy-15.jpg',
+		name: 'Kevin Hart',
+		photo: 'https://pixel.nymag.com/imgs/daily/vulture/2016/03/23/23-kevin-hart.w330.h330.jpg',
 		scores: [
 			'1',
 			'5',
@@ -17,8 +17,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Fluffy',
-		photo: 'https://i.ytimg.com/vi/mRf3-JkwqfU/hqdefault.jpg',
+		name: 'Liam Neeson',
+		photo: 'https://www.hellomagazine.com/imagenes/profiles/liam-neeson/6254-liam-neeson.jpg',
 		scores: [
 			'2',
 			'4',
@@ -33,8 +33,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Spencer',
-		photo: 'http://cdn3-www.cattime.com/assets/uploads/2011/08/best-kitten-names-1.jpg',
+		name: 'Chris Pratt',
+		photo: 'https://www.toplessrobot.com/wp-content/uploads/2015/07/prattfbheadshot.jpg',
 		scores: [
 			'4',
 			'3',
@@ -49,8 +49,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Zackariah',
-		photo: 'https://pbs.twimg.com/profile_images/562466745340817408/_nIu8KHX.jpeg',
+		name: 'Scarlett Johansson',
+		photo: 'https://m.media-amazon.com/images/M/MV5BMTM3OTUwMDYwNl5BMl5BanBnXkFtZTcwNTUyNzc3Nw@@._V1_UY317_CR23,0,214,317_AL_.jpg',
 		scores: [
 			'5',
 			'1',
@@ -65,8 +65,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Cloe',
-		photo: 'http://4.bp.blogspot.com/-HTvSYzA-pO4/UgQb4Zh_u0I/AAAAAAAAEuI/XwhtogT_1tA/s1600/3+cute2.jpg',
+		name: 'Emma Stone',
+		photo: 'https://media.glamour.com/photos/5695a3a316d0dc3747ecf539/master/pass/beauty-2013-06-emma-stone-baking-soda-skincare-secret-main.jpg',
 		scores: [
 			'1',
 			'1',
@@ -81,8 +81,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Mrs. Piggy',
-		photo: 'http://img.mindbodygreen.com/image/upload/c_limit,w_738,f_auto/ftr/Miss-Piggy-large-tonya-312.jpg',
+		name: 'Chris Evans',
+		photo: 'https://i.redd.it/lrtrfbzbmd811.jpg',
 		scores: [
 			'1',
 			'1',
@@ -97,8 +97,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Beyonce Knowles',
-		photo: 'http://www.billboard.com/files/styles/article_main_image/public/media/beyonce-feb-2014-billboard-650.jpg',
+		name: 'Oprah Winfrey',
+		photo: 'http://cdn.luxuo.com/2010/06/oprah-winfrey-photo.jpg',
 		scores: [
 			'5',
 			'4',
@@ -113,8 +113,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Adele Adkins',
-		photo: 'https://i1.imgiz.com/data/videoshots/6829/6829475-6461.jpg',
+		name: 'Megan Fox',
+		photo: 'https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/04/13/10/megan-fox.jpg?w968h681',
 		scores: [
 			'5',
 			'2',
@@ -129,8 +129,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Kermit the Frog',
-		photo: 'http://i.dailymail.co.uk/i/pix/2015/09/02/08/2BE5406100000578-3218820-image-m-25_1441179775589.jpg',
+		name: 'Halle Berry',
+		photo: 'https://www.sojones.com/wp-content/uploads/2012/10/Halle-Berry-597x900.jpg',
 		scores: [
 			'5',
 			'5',
@@ -145,8 +145,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Elmo',
-		photo: 'http://1rjm5qg4v8732kpmn44ya6bj-wpengine.netdna-ssl.com/wp-content/uploads/2012/11/elmo-6601.png',
+		name: 'Dwayne Johnson',
+		photo: 'https://peopledotcom.files.wordpress.com/2017/10/the-rock-1.jpg',
 		scores: [
 			'1',
 			'1',
