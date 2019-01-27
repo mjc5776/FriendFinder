@@ -5,4 +5,6 @@ This full-stack site will take in results from your users' surveys, then compare
 ## Libraries, Packages used
 * jQuery
 * SweetAlertJS
-* nodeJS
+* node
+* Bootstrap
+* Express
