@@ -220,11 +220,26 @@
     
       $.post("/api/friends", userInput)
         .then(function (data) {
-
+          clearInput();
           //console.log("Test .then");
           $("#match-name").text(data.matchName);
           $("#match-img").attr("src", data.matchImage);
           $("#results-modal").modal("toggle");
         });
     });
+
+    function clearInput(){
+        $("#name").val('')
+        $("#photo").val('')
+        $("#q1").val(0)
+        $("#q2").val(0)
+        $("#q3").val(0)
+        $("#q4").val(0)
+        $("#q5").val(0)
+        $("#q6").val(0)
+        $("#q7").val(0)
+        $("#q8").val(0)
+        $("#q9").val(0)
+        $("#q10").val(0)
+    }
   </script>
